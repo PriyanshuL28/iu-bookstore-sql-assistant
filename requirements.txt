@@ -1,0 +1,7 @@
+streamlit>=1.50
+langchain-core>=0.3
+langchain-mistralai>=0.2
+psycopg[binary]>=3.2
+sqlglot>=25.0
+pandas>=2.0
+python-dotenv>=1.0
