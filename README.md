@@ -150,7 +150,6 @@ completed orders, and savings are list price minus `line_total`.
 
 ## What's next for Ask the IU Bookstore
 
-- **Deploy** the database on Supabase and the app on Streamlit Community Cloud from GitHub.
 - **Fix multi-step logic errors** with a self-check step where the model reviews its SQL against the question before
   running it.
 - **Compare models**, such as Defog's SQL-specialized SQLCoder and larger Mistral models on a paid plan.
@@ -159,5 +158,8 @@ completed orders, and savings are list price minus `line_total`.
 - **Grow the benchmark** from 30 to 100+ questions, including harder date logic and multi-turn follow-ups.
 - **Learn from users** with thumbs-up/down feedback, saving good answers as new few-shot examples.
 - **Deeper analytics**, such as forecasting next semester's textbook demand and alerting on low stock.
+
+## Streamlit link: 
+https://iu-bookstore-sql-assistant.streamlit.app/
 
 ---
